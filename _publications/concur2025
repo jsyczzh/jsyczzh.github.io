@@ -7,7 +7,7 @@ venue: 'CONCUR 2025'
 date: 2025-05-26
 paperurl: 'https://arxiv.org/abs/2506.06223'
 permalink: #
-slidesurl: 'https://arxiv.org/abs/2506.06223'
+// slidesurl: 'https://arxiv.org/abs/2506.06223'
 // excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 // citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
